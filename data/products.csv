@@ -1,0 +1,13 @@
+product_id,product_name,category,base_price
+P001,Laptop,Electronics,55000
+P002,Mobile,Electronics,25000
+P003,Tablet,Electronics,18000
+P004,Monitor,Electronics,12000
+P005,Keyboard,Accessories,1500
+P006,Mouse,Accessories,600
+P007,Headphones,Accessories,2500
+P008,Smart Watch,Wearables,7000
+P009,Power Bank,Accessories,1200
+P010,Printer,Electronics,9000
+P011,Webcam,Accessories,2200
+P012,SSD,Storage,4500
